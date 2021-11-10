@@ -1,5 +1,7 @@
 # demo
-##This is a demo crud project with vue.js
+This is a demo crud project with vue.js
+
+https://vue-crud-demo.netlify.app/
 
 ## Project setup
 ```
